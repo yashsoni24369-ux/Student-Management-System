@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "yash",
+        "age": 18,
+        "marks": [
+            99.0,
+            99.0,
+            99.0,
+            99.0,
+            99.0
+        ],
+        "total_marks": 495.0,
+        "average": 99.0,
+        "grade": "A+",
+        "status": "PASS"
+    }
+]
