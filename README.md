@@ -98,3 +98,7 @@ This allows student data to remain available after the program is closed.
 ## Author
 
 Yash
+
+## Project Screenshot
+
+![Student Management System](screenshots/student-management-system.png)
